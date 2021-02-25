@@ -1,0 +1,45 @@
+body {
+	max-width: 1660px;
+}
+
+hr {
+	position: absolute;
+	left: 0px;
+	top: 65px;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	width: 740px;
+	color: white;
+	opacity: 0;
+}
+
+@font-face {
+font-family: "bel"; 
+src: url("../fonts/bel.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+
+.bel {
+	font-family: "bel"
+}
+
+@font-face {
+font-family: "cyr"; 
+src: url("../fonts/cyr.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+
+.news {
+	font-family: "cyr"
+}
+
+#main {
+	font-family: "bel"
+}

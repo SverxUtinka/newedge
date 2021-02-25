@@ -1,0 +1,22 @@
+#articleA {
+	max-height: 470px;
+	border: 2px solid white;
+	position: absolute;
+	left: 60px;
+	top: 150px;
+	background: url(../img/poster.png);
+	background-size: 800px 620px;
+}
+
+#newA {
+	color: #D61515;
+	font-size: 40px;
+	position: absolute;
+	top: 10px;
+	left: 20px;
+}
+
+#newB {
+	color: white;
+	font-size: 20px;
+}
