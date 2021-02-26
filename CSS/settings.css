@@ -19,4 +19,7 @@
 #newB {
 	color: white;
 	font-size: 20px;
+	position: absolute;
+	top: 60px;
+	left: 20px;
 }
