@@ -14,7 +14,9 @@ a {
 
 p {
 	width: 740px;
+	height: 500px;
 	color: white;
+	opacity: 0;
 }
 
 @font-face {
@@ -33,8 +35,8 @@ font-family: "cyr";
 src: url("../fonts/cyr.ttf") format("truetype"); 
 font-style: normal; 
 font-weight: normal; 
-} 
+}
 
-.news {
-	font-family: "cyr"
+#main {
+	font-family: "bel"
 }

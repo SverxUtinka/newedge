@@ -35,12 +35,12 @@ font-family: "cyr";
 src: url("../fonts/cyr.ttf") format("truetype"); 
 font-style: normal; 
 font-weight: normal; 
-} 
-
-.news {
-	font-family: "cyr"
 }
 
 #main {
 	font-family: "bel"
+}
+
+hr {
+	max-width: 1678px;
 }
