@@ -5,3 +5,54 @@
 	-webkit-transition: all 300ms;
 	transition: all 300ms;
 }
+
+#line {
+	position: absolute;
+	left: 85px;
+	top: 220px;
+}
+
+#rus {
+	color: white;
+	font-size: 32px;
+	position: absolute;
+	left: 420px;
+	top: 87px;
+}
+
+#by {
+	color: #FFF0F0;
+	font-size: 32px;
+	position: absolute;
+	left: 540px;
+	top: 87px;
+}
+
+#t0 {
+	font-size: 55px;
+	position: absolute;
+	top: 150px;
+	left: 370px;
+}
+
+#t1 {
+	font-size: 30px;
+	width: 900px;
+	position: absolute;
+	top: 260px;
+	left: 600px;
+}
+
+#t2 {
+	font-size: 30px;
+	width: 900px;
+	position: absolute;
+	top: 500px;
+	left: 600px;
+}
+
+#img1 {
+	position: absolute;
+	top: 260px;
+	left: 40px;
+}

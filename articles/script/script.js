@@ -14,5 +14,5 @@ let timer = setInterval(function() {
 
 function draw(timePassed) {
 	var train = document.getElementById("band");
-	train.style.left = timePassed / 1677 + 'px';
+	train.style.left = timePassed / 1677 + "px";
 }
