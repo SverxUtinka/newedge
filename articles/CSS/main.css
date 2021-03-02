@@ -25,6 +25,13 @@
 	top: 80px;
 }
 
+#data {
+	font-size: 20px;
+	position: absolute;
+	top: 200px;
+	right: 100px;
+}
+
 #languagesBy {
 	color: white;
 	font-size: 40px;
@@ -45,4 +52,11 @@
 	opacity: .9;
 	position: absolute;
 	top: 0px;
+}
+
+.invs {
+	position: absolute;
+	top: 1950px;
+	opacity: 1;
+	font-size: 10px;
 }

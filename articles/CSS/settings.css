@@ -47,12 +47,42 @@
 	font-size: 30px;
 	width: 900px;
 	position: absolute;
-	top: 500px;
+	top: 450px;
 	left: 600px;
+}
+
+#t3 {
+	font-size: 30px;
+	width: 540px;
+	position: absolute;
+	top: 690px;
+	left: 40px;
+}
+
+#t4 {
+	font-size: 30px;
+	width: 900px;
+	position: absolute;
+	top: 1450px;
+	left: 600px;
+}
+
+#t5 {
+	font-size: 30px;
+	width: 900px;
+	position: absolute;
+	top: 1750px;
+	left: 40px;
 }
 
 #img1 {
 	position: absolute;
 	top: 260px;
 	left: 40px;
+}
+
+#img2 {
+	position: absolute;
+	top: 800px;
+	left: 700px;
 }

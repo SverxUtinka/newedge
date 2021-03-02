@@ -3,7 +3,7 @@ let start = Date.now();
 let timer = setInterval(function() {
   let timePassed = Date.now() - start;
 
-  if (timePassed >= 900) {
+  if (timePassed >= 200) {
     clearInterval(timer);
     return;
   }

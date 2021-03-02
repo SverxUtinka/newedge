@@ -4,7 +4,7 @@
 	position: absolute;
 	left: 60px;
 	top: 150px;
-	background: url(../img/poster.png);
+	background: url(../articles/img/poster1.png);
 	background-size: 800px 620px;
 }
 
@@ -15,6 +15,26 @@
 	left: 805px;
 	top: 150px;
 	background: url(../img/poster1.png);
+	background-size: 800px 620px;
+}
+
+#articleC {
+	max-height: 470px;
+	border: 2px solid white;
+	position: absolute;
+	left: 60px;
+	top: 630px;
+	background: url(../img/poster2.png);
+	background-size: 800px 620px;
+}
+
+#articleD {
+	max-height: 470px;
+	border: 2px solid white;
+	position: absolute;
+	left: 805px;
+	top: 630px;
+	background: url(../img/poster3.png);
 	background-size: 800px 620px;
 }
 
