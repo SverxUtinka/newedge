@@ -12,6 +12,30 @@
 	top: 220px;
 }
 
+#line1 {
+	position: absolute;
+	left: 570px;
+	top: 200px;
+}
+
+#line2 {
+	position: absolute;
+	left: 85px;
+	top: 670px;
+}
+
+#line3 {
+	position: absolute;
+	left: 85px;
+	top: 1420px;
+}
+
+#line4 {
+	position: absolute;
+	left: 85px;
+	top: 1700px;
+}
+
 #rus {
 	color: white;
 	font-size: 32px;
@@ -39,7 +63,7 @@
 	font-size: 30px;
 	width: 900px;
 	position: absolute;
-	top: 260px;
+	top: 280px;
 	left: 600px;
 }
 
@@ -47,7 +71,7 @@
 	font-size: 30px;
 	width: 900px;
 	position: absolute;
-	top: 450px;
+	top: 400px;
 	left: 600px;
 }
 
