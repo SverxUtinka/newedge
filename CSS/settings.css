@@ -1,6 +1,5 @@
 #articleA {
 	max-height: 470px;
-	border: 2px solid white;
 	position: absolute;
 	left: 60px;
 	top: 150px;
@@ -10,7 +9,6 @@
 
 #articleB {
 	max-height: 470px;
-	border: 2px solid white;
 	position: absolute;
 	left: 805px;
 	top: 150px;
@@ -20,7 +18,6 @@
 
 #articleC {
 	max-height: 470px;
-	border: 2px solid white;
 	position: absolute;
 	left: 60px;
 	top: 630px;
@@ -30,7 +27,6 @@
 
 #articleD {
 	max-height: 470px;
-	border: 2px solid white;
 	position: absolute;
 	left: 805px;
 	top: 630px;
@@ -39,7 +35,7 @@
 }
 
 .newA {
-	color: #D61515;
+	color: #16181F;
 	font-size: 40px;
 	position: absolute;
 	top: 10px;

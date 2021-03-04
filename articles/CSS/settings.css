@@ -45,7 +45,7 @@
 }
 
 #by {
-	color: #FFF0F0;
+	color: #DFE1F0;
 	font-size: 32px;
 	position: absolute;
 	left: 540px;
@@ -107,6 +107,6 @@
 
 #img2 {
 	position: absolute;
-	top: 800px;
+	top: 750px;
 	left: 700px;
 }

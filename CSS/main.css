@@ -1,8 +1,8 @@
 #title {
-	color: yellow;
+	color: #16181F;
 	font-size: 60px;
 	position: absolute;
-	left: 60px;
+	left: -500px;
 	top: 15px;
 }
 
@@ -10,12 +10,11 @@
 	color: white;
 	font-size: 40px;
 	position: absolute;
-	left: 60px;
+	left: -60px;
 	top: 80px;
 }
 
 .effect {
-	opacity: .999;
 	position: absolute;
 	top: 0px;
 }

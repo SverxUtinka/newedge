@@ -3,7 +3,7 @@ let start = Date.now();
 let timer = setInterval(function() {
   let timePassed = Date.now() - start;
 
-  if (timePassed >= 200) {
+  if (timePassed >= 400) {
     clearInterval(timer);
     return;
   }
@@ -13,6 +13,11 @@ let timer = setInterval(function() {
 }, 100);
 
 function draw(timePassed) {
-	var train = document.getElementById("band");
-	train.style.left = timePassed / 1677 + "px";
+	var band = document.getElementById("band");
+	var title = document.getElementById("title");
+	var main = document.getElementById("main");
+	title.style.left = timePassed / 14 + 'px';
+	main.style.left = timePassed / 14 + 'px';
+	band.style.left = timePassed / 1677 + 'px';
+
 }
